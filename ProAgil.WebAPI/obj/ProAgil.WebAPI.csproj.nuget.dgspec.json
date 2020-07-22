@@ -1,28 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/giovanepianco/Projects/ProAgil/ProAgil/ProAgil.WebAPI/ProAgil.WebAPI.csproj": {}
+    "C:\\Users\\giovane.pianco\\source\\repos\\Curso\\ProAgil.WebAPI\\ProAgil.WebAPI.csproj": {}
   },
   "projects": {
-    "/Users/giovanepianco/Projects/ProAgil/ProAgil/ProAgil.WebAPI/ProAgil.WebAPI.csproj": {
+    "C:\\Users\\giovane.pianco\\source\\repos\\Curso\\ProAgil.WebAPI\\ProAgil.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/giovanepianco/Projects/ProAgil/ProAgil/ProAgil.WebAPI/ProAgil.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\giovane.pianco\\source\\repos\\Curso\\ProAgil.WebAPI\\ProAgil.WebAPI.csproj",
         "projectName": "ProAgil.WebAPI",
-        "projectPath": "/Users/giovanepianco/Projects/ProAgil/ProAgil/ProAgil.WebAPI/ProAgil.WebAPI.csproj",
-        "packagesPath": "/Users/giovanepianco/.nuget/packages/",
-        "outputPath": "/Users/giovanepianco/Projects/ProAgil/ProAgil/ProAgil.WebAPI/obj/",
+        "projectPath": "C:\\Users\\giovane.pianco\\source\\repos\\Curso\\ProAgil.WebAPI\\ProAgil.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\giovane.pianco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\giovane.pianco\\source\\repos\\Curso\\ProAgil.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/giovanepianco/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\giovane.pianco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
